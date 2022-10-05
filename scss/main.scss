@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+}
+.modulo__content {
+    display: inline-flex;
+    font-size: 30px;
+    color:black;
+    margin-bottom: 5px;
+    padding-top: 50px;
+    padding-bottom: 35px;
+    width: 100%;
+    justify-content: center;
+    &__img{
+        width: 50%;
+        height:50%;
+    }
+    a {
+        text-decoration: none;
+        h2 {
+            font-weight: 400;
+            left: 50px;
+            padding-top: 25px;
+            color: black;
+        }
+    }
+}
