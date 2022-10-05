@@ -1,10 +1,11 @@
+$cool-black: #000;
 a {
     text-decoration: none;
 }
 .modulo__content {
     display: inline-flex;
     font-size: 30px;
-    color:black;
+    color:$cool-black;
     margin-bottom: 5px;
     padding-top: 50px;
     padding-bottom: 35px;
@@ -20,7 +21,7 @@ a {
             font-weight: 400;
             left: 50px;
             padding-top: 25px;
-            color: black;
+            color: $cool-black;
         }
     }
 }
