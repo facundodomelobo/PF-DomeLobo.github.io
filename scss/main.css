@@ -1,0 +1,27 @@
+a {
+  text-decoration: none;
+}
+
+.modulo__content {
+  display: inline-flex;
+  font-size: 30px;
+  color: #000;
+  margin-bottom: 5px;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  width: 100%;
+  justify-content: center;
+}
+.modulo__content__img {
+  width: 50%;
+  height: 50%;
+}
+.modulo__content a {
+  text-decoration: none;
+}
+.modulo__content a h2 {
+  font-weight: 400;
+  left: 50px;
+  padding-top: 25px;
+  color: #000;
+}/*# sourceMappingURL=main.css.map */

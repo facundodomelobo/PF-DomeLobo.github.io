@@ -1,4 +1,7 @@
 $cool-black: #000;
+$ancho: 100%;
+$alto:100%;
+
 a {
     text-decoration: none;
 }
@@ -9,11 +12,11 @@ a {
     margin-bottom: 5px;
     padding-top: 50px;
     padding-bottom: 35px;
-    width: 100%;
+    width: $ancho;
     justify-content: center;
     &__img{
-        width: 50%;
-        height:50%;
+        width: ($ancho/2);
+        height:($alto/2);
     }
     a {
         text-decoration: none;
